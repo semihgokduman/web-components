@@ -7,6 +7,6 @@ web-components
 
 3. npm run static-server
 
-<a href="https://semihgokduman.github.io/web-components/01-UserCard/" target="_blank">01-UserCard</a>
+[01-UserCard](https://semihgokduman.github.io/web-components/01-UserCard/)
 
-<a href="https://semihgokduman.github.io/web-components/02-People-List/" target="_blank">02-People-List</a>
+[02-People-List](https://semihgokduman.github.io/web-components/02-People-List/)
