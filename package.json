@@ -9,7 +9,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "copy-assets": "cp ./node_modules/@webcomponents/webcomponentsjs/webcomponents-lite.js ./01-UserCard/UserCard/webcomponents-lite.js",
+    "copy-assets": "cp ./node_modules/@webcomponents/webcomponentsjs/webcomponents-lite.js ./01-UserCard/UserCard/webcomponents-lite.js && cp ./node_modules/@webcomponents/webcomponentsjs/webcomponents-lite.js ./02-People-List/components/PeopleController/webcomponents-lite.js",
     "static-server": "./node_modules/static-server/bin/static-server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
